@@ -119,3 +119,7 @@ Currently the project is laid out as follows:
 There are still issues to tackle. Go to the [GitHub issues][issues] page to see them all.
 
 [issues]: https://github.com/jeffh/YACS/issues
+
+
+
+This project is now being worked on as a RCOS project.
